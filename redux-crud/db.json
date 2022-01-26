@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Adam singe",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "487596",
+      "id": 1
+    },
+    {
+      "name": "Moubardan",
+      "address": "Maroc",
+      "email": "mouba@gmail.com",
+      "contact": "0660847",
+      "id": 2
+    },
+    {
+      "name": "Fotafi",
+      "address": "Japon",
+      "email": "fota@gmail.com",
+      "contact": "635874",
+      "id": 3
+    },
+    {
+      "name": "moubar",
+      "email": "mouhssine.oubardan@hotmail.com",
+      "contact": "066084713",
+      "address": "Maroc ",
+      "id": 5
+    }
+  ]
+}
